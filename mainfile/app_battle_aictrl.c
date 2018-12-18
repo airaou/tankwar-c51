@@ -1,0 +1,1 @@
+#include<mainfile\app_battle_aictrl.h>
