@@ -16,4 +16,4 @@ TODO: 待补充
 
 # 窥视
 
-演示视频: [一个在单片机上运行的炸弹人游戏](http://www.bilibili.com/video/av4264857)
+演示视频: [【自制展示】不到7KB的坦克大战](http://www.bilibili.com/video/av14477895)
